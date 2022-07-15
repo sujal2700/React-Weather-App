@@ -3,7 +3,7 @@ import styled from "styled-components";
 import {WeatherIcons} from "../App";
 
 export const WeatherInfoIcons = {
-    sunset: "/icons/temp.jpg",
+    sunset: "/icons/sun.jpg",
     sunrise: "/icons/sun.jpg",
     humidity: "/icons/humid.jpg",
     wind: "/icons/wind.jpg",
